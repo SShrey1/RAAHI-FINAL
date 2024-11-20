@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		53D09B7C2CD9FFAB00C2F624 /* Exceptions for "RaahiFinal" folder in "RaahiShrey4" target */ = {
+		53D09B7C2CD9FFAB00C2F624 /* Exceptions for "RaahiShrey4" folder in "RaahiShrey4" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -40,12 +40,12 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		53D09B562CD9FFA900C2F624 /* RaahiFinal */ = {
+		53D09B562CD9FFA900C2F624 /* RaahiShrey4 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				53D09B7C2CD9FFAB00C2F624 /* Exceptions for "RaahiFinal" folder in "RaahiShrey4" target */,
+				53D09B7C2CD9FFAB00C2F624 /* Exceptions for "RaahiShrey4" folder in "RaahiShrey4" target */,
 			);
-			path = RaahiFinal;
+			path = RaahiShrey4;
 			sourceTree = "<group>";
 		};
 		53D09B6D2CD9FFAB00C2F624 /* RaahiShrey4Tests */ = {
@@ -88,7 +88,7 @@
 		53D09B4B2CD9FFA900C2F624 = {
 			isa = PBXGroup;
 			children = (
-				53D09B562CD9FFA900C2F624 /* RaahiFinal */,
+				53D09B562CD9FFA900C2F624 /* RaahiShrey4 */,
 				53D09B6D2CD9FFAB00C2F624 /* RaahiShrey4Tests */,
 				53D09B772CD9FFAB00C2F624 /* RaahiShrey4UITests */,
 				53D09B552CD9FFA900C2F624 /* Products */,
@@ -121,7 +121,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				53D09B562CD9FFA900C2F624 /* RaahiFinal */,
+				53D09B562CD9FFA900C2F624 /* RaahiShrey4 */,
 			);
 			name = RaahiShrey4;
 			packageProductDependencies = (
@@ -199,7 +199,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 53D09B4F2CD9FFA900C2F624 /* Build configuration list for PBXProject "RaahiFinal" */;
+			buildConfigurationList = 53D09B4F2CD9FFA900C2F624 /* Build configuration list for PBXProject "RaahiShrey4" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -528,7 +528,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		53D09B4F2CD9FFA900C2F624 /* Build configuration list for PBXProject "RaahiFinal" */ = {
+		53D09B4F2CD9FFA900C2F624 /* Build configuration list for PBXProject "RaahiShrey4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				53D09B802CD9FFAB00C2F624 /* Debug */,
