@@ -12,6 +12,7 @@ class AddItineraryTableViewCell: UITableViewCell {
     
     @IBOutlet weak var iconImageView2: UIImageView!
     
+    
     @IBOutlet weak var Title10: UILabel!
     
     
